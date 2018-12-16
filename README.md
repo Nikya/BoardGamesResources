@@ -5,30 +5,47 @@
 # Utilisation
 
 Imprimer les différents documents au foramt PDF.  
-Imprimer sans mise à l'echelle et sans adaptation de marge.
+Imprimer sans mise à l'echelle et sans adaptation de marges.
 
 # Jeux
 
+## Keyforge
+
+Site officiel : [Keyforge](https://www.keyforgegame.com/ "Site officiel")
+
+Un résumé de l'ordre d'action dans un tour et 1 ou 2 traqueurs de chaines.
+
+1. Télécharger : [HelperAndChainTraker_KeyForge.pdf](./distributable/HelperAndChainTraker_KeyForge.pdf)
+2. Imprimer
+3. Découper
+4. (Plier)
+
+<img src="source\keyforge\pres.png" width="350px" title="Aperçue"/>
+
 ## Koryŏ
 
-Une aide de jeu très synthétique résumant les différentes capacités des cartes pour le jeux [Koryŏ](http://www.moonstergames.com/koryo/ "Site officiel").  
+Site officiel : [Koryŏ](http://www.moonstergames.com/koryo/ "Site officiel")
+
+Une aide de jeu très synthétique résumant les différentes capacités des cartes.
 
 1. Télécharger : [Helper_Koryo_FR.pdf](./distributable/Helper_Koryo_FR.pdf)
 2. Imprimer
 3. Découper (format adapté à la taille de la boite de jeu)
 
-<a href="source\koryo\pres.jpg"><img src="source\koryo\pres.jpg" width="350px" title="Aperçue"/></a>
+<img src="source\koryo\pres.jpg" width="350px" title="Aperçue"/>
 
 
 ## Chosŏn
 
-Une aide de jeu très synthétique résumant les différentes capacités des cartes pour le jeux [Chosŏn](http://www.moonstergames.com/Choson/ "Site officiel").  
+Site officiel  : [Chosŏn](http://www.moonstergames.com/Choson/ "Site officiel")
+
+Une aide de jeu très synthétique résumant les différentes capacités des cartes.
 
 1. Télécharger : [Helper_Choson_FR.pdf](./distributable/Helper_Choson_FR.pdf)
 2. Imprimer
 3. Découper (format adapté à la taille de la boite de jeu)
 
-<a href="source\choson\pres.jpg"><img src="source\choson\pres.jpg" width="350px" title="Aperçue"/></a>
+<img src="source\choson\pres.jpg" width="350px" title="Aperçue"/>
 
 
 ## Epic card game
@@ -44,7 +61,7 @@ Une aide de jeu très synthétique résumant les différentes capacités des car
     1. Placer une bande de ruban adhésif en haut et en bas de la carte, sur les pistes de chiffres, pour protéger la carte des frottements.
     1. Placer un trombone sur la piste du haut pour compter les dizaines, un autres sur la piste du bas pour compter les unités.
 
-<a href="source\EpicCardGame\pres.jpg"><img src="source\EpicCardGame\pres.jpg" width="350px" title="Aperçue"/></a>
+<img src="source\EpicCardGame\pres.jpg" width="350px" title="Aperçue"/>
 
 
 # Licence crédit et modifications
